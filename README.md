@@ -6,7 +6,6 @@ Ask me to become a collaborator ;)
 
 #### TODO : 
  * Tutorial to make a post
- * Rules page
  * Logo
 
 #### Credits : 
