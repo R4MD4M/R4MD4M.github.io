@@ -1,47 +1,47 @@
 ---
 layout: landing
 ---
-				<!-- Banner -->
-					<section id="banner">
-						<div class="inner">
-							<h2>{{ site.title }}</h2>
-							<p>{{ site.description | markdownify }}</p>
-						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
-					</section>
+<!-- Banner -->
+	<section id="banner">
+		<div class="inner">
+			<h2>{{ site.title }}</h2>
+			<p>{{ site.description | markdownify }}</p>
+		</div>
+		<a href="#one" class="more scrolly">Learn More</a>
+	</section>
 
-				<!-- What ? -->
-					<section id="one" class="wrapper style1 special">
-						<div class="inner">
-							<header class="major">
-								<h2>What is RAMDAM ?</h2>
-								<p>RAMDAM is a camp where people get together and work on projects in diverse areas such as programmation, poetry, illustration, etc... All participants have to respect RAMDAM's rules designed to balance productivity and fun.</p>
-							</header>
-						</div>
-					</section>
+<!-- What ? -->
+	<section id="one" class="wrapper style3 special">
+		<div class="inner">
+			<header class="major">
+				<h2>What is RAMDAM ?</h2>
+				<p>RAMDAM is a camp where people get together and work on projects in diverse areas such as programmation, poetry, illustration, etc... All participants have to respect RAMDAM's rules designed to balance productivity and fun.</p>
+			</header>
+		</div>
+	</section>
 
-				<!-- Blog -->
-					<section id="two" class="wrapper alt style2">
-						{% for post in site.posts %}
-						<section class="spotlight">
-							<div class="image"><img src="{{ post.image }}" alt=""/></div>
-							<div class="content">
-								<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-							</div>
-						</section>
-						{% endfor %}
-					</section>
+<!-- Blog -->
+	<section id="two" class="wrapper alt style2">
+		{% for post in site.posts %}
+		<section class="spotlight">
+			<div class="image"><img src="{{ post.image }}" alt=""/></div>
+			<div class="content">
+				<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			</div>
+		</section>
+		{% endfor %}
+	</section>
 
-				<!-- CTA -->
-					<section id="cta" class="wrapper style4">
-						<div class="inner">
-							<header>
-								<h2>Learn more about us</h2>
-								<p>...and about the rules.</p>
-							</header>
-							<ul class="actions vertical">
-								<li><a href="/about" class="button fit small">About Us</a></li>
-								<li><a href="/rules" class="button fit">Rules</a></li>
-							</ul>
-						</div>
-					</section>
+<!-- CTA -->
+	<section id="cta" class="wrapper style4">
+		<div class="inner">
+			<header>
+				<h2>Learn more about us</h2>
+				<p>...and about our rules.</p>
+			</header>
+			<ul class="actions vertical">
+				<li><a href="/about" class="button fit small">About Us</a></li>
+				<li><a href="/rules" class="button fit small">Rules</a></li>
+			</ul>
+		</div>
+	</section>
