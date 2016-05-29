@@ -5,7 +5,7 @@ date:   2016-05-28
 image: /images/test.jpg
 ---
 
-To organise ourselves we need to :
+In order to organize the event participants will need to :
 
  * **Vote on the dates :** <http://doodle.com/poll/anbv6fkkcbecgqas>
 
