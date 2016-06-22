@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Rules
-permalink: /rules/
+title: Code
+permalink: /code/
 ---
 
-1. **If you wear the stone, work on your project.**
+1. **Si tu portes la pierre, travailles sur ton projet ou participe à un atelier.**
 
-2. **If you don't wear the stone, party !**
+2. **Si tu ne portes pas la pierre, fais la fête.**
 
-3. **All decisions are collectively taken during reunions.**
+3. **Toutes les décisions sont prises collectivement.**
 
-4. **Participate in collective tasks.**
+4. **Participes aux tâches collectives.**
 
-5. **Rules can be modified during reunions.**
+5. **Le code peut être modifiée.**
 
-6. **Feel free to break a rule if it prevents you from doing something good.**
+6. **Brisez le code s'il vous semble vous empêcher de faire quelque-chose de bien.**
 
 7. **Zinz !**
+
+8. **Règle vide. Chaque jour la huitième règle est votée et s'applique de midi à midi la journée suivante.**
