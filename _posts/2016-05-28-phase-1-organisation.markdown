@@ -5,12 +5,7 @@ date:   2016-05-28
 image: /images/test.jpg
 ---
 
-In order to organize the event participants will need to :
 
- * **Vote on the dates :** <http://doodle.com/poll/anbv6fkkcbecgqas>
+ * **S'inscrire ici :** <https://framacalc.org/Madmar>
 
- * **Subscribe here :** <https://framacalc.org/Madmar>
-
- * **Add items to the collective inventory :** <https://framacalc.org/Ramdam-matos>
-
- * **Contact me** to have access to the slack : <valentin.lageard@gmail.com>
+ * **Inventaire collectif à remplir :** <https://framacalc.org/Ramdam-matos>
