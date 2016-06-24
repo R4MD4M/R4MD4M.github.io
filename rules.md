@@ -12,7 +12,7 @@ permalink: /code/
 
 4. **Participes aux tâches collectives.**
 
-5. **Le code peut être modifiée.**
+5. **Le code peut être modifié.**
 
 6. **Brisez le code s'il vous semble vous empêcher de faire quelque-chose de bien.**
 
