@@ -6,11 +6,11 @@ title: RAMDAM
 description: Le camp créatif
 owner: RAMDAM
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: contact@ramdam.space
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://camp.ramdam.space" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
+  twitter: https://twitter.com/r4md4m
   github: https://github.com/R4MD4M
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
