@@ -1,7 +1,7 @@
 ---
 title: Infos pratiques
 layout: page
-published: False
+permalink: /infos-pratiques/
 ---
 
 ## Quand ?
