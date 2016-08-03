@@ -5,7 +5,7 @@ date:   2016-08-01
 image: /images/mascotte.jpg
 ---
 
-Ainsi débuta le RAMDAM...
+## Ainsi débuta le RAMDAM...
 
 Minuit, jour 1. Non, cette clameur, ce n’est pas Cendrillon qui voit son carrosse redevenir citrouille. Ce sont les Ramdamians qui approuvent par acclamation leur nouveau nom.
 
