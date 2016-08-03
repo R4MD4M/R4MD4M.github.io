@@ -11,17 +11,20 @@ Minuit, jour 1. Non, cette clameur, ce n’est pas Cendrillon qui voit son carro
 
 <div class="box alt">
 					<div class="row uniform 50%">
-						<div class="4u"><span class="image fit"><img src="/images/rampierres.jpg" alt="" /></span></div>
-						<div class="4u"><span class="image fit"><img src="/images/ramlentin.jpg" alt="" /></span></div>
-						<div class="4u"><span class="image fit"><img src="/images/ramnia.jpg" alt="" /></span></div>
+						<div class="6u"><span class="image fit"><img src="/images/rampierres.jpg" alt="" /></span></div>
+						<div class="6u"><span class="image fit"><img src="/images/ramlentin.JPG" alt="" /></span></div>
+						<div class="6u"><span class="image fit"><img src="/images/ramnia.JPG" alt="" /></span></div>
+						<div class="6u"><span class="image fit"><img src="/images/prequel.jpg" alt="" /></span></div>
 					</div>
 </div>
 
 Les pierres sont remises aux Ramdamians et la soirée se poursuit, douce, ponctuée du clapotis de la fontaine et des tintements de verre.
 
 ## Conseil
+
+<div style="float:right;"><img class="image" src="images/tableau.jpg"></div>
+
 Quatorze heures. Tous les Ramdamians sont levés, le conseil peut se réunir. Les premiers ateliers sont décidés : recherche d’une planche (il suffira d’aller à la cave) et transformation de celle-ci en tableau noir ;
-‘’Photo’’
 Organisation de l’espace et délimitation des zones plus ou moins paisibles ; mise en place de la boîte à argent collective ; jeu de rôle le soir ; et récitation quotidienne de poésie (atelier ou nouvelle règle permanente, l’avenir nous le dira).
 N’oublions pas la [règle numéro 8](http://camp.ramdam.space/code), débattue car plusieurs ont été mises en réserve. Pour ce jour, il s’agit de, toutes les deux heures, se réserver une plage de méditation.
 
