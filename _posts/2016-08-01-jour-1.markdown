@@ -22,7 +22,7 @@ Les pierres sont remises aux Ramdamians et la soirée se poursuit, douce, ponctu
 
 ## Conseil
 
-<div style="float:right; max-width: 500px;"><img src="/images/tableau.jpg"></div>
+<div style="float:right; max-width: 500px;"><img src="/images/tableau.jpg" style="max-width: 500px"></div>
 
 Quatorze heures. Tous les Ramdamians sont levés, le conseil peut se réunir. Les premiers ateliers sont décidés : recherche d’une planche (il suffira d’aller à la cave) et transformation de celle-ci en tableau noir ;
 Organisation de l’espace et délimitation des zones plus ou moins paisibles ; mise en place de la boîte à argent collective ; jeu de rôle le soir ; et récitation quotidienne de poésie (atelier ou nouvelle règle permanente, l’avenir nous le dira).
