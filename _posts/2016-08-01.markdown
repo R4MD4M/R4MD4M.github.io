@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Jour 1"
+date:   2016-08-01
+image: /images/mascotte.jpg
+---
+
+Ainsi débuta le RAMDAM...
+
+Minuit, jour 1. Non, cette clameur, ce n’est pas Cendrillon qui voit son carrosse redevenir citrouille. Ce sont les Ramdamians qui approuvent par acclamation leur nouveau nom.
+
+<div class="box alt">
+					<div class="row uniform 50%">
+						<div class="4u"><span class="image fit"><img src="/images/rampierres.jpg" alt="" /></span></div>
+						<div class="4u"><span class="image fit"><img src="/images/ramlentin.jpg" alt="" /></span></div>
+						<div class="4u"><span class="image fit"><img src="/images/ramnia.jpg" alt="" /></span></div>
+					</div>
+</div>
+
+Les pierres sont remises aux Ramdamians et la soirée se poursuit, douce, ponctuée du clapotis de la fontaine et des tintements de verre.
+
+## Conseil
+Quatorze heures. Tous les Ramdamians sont levés, le conseil peut se réunir. Les premiers ateliers sont décidés : recherche d’une planche (il suffira d’aller à la cave) et transformation de celle-ci en tableau noir ;
+‘’Photo’’
+Organisation de l’espace et délimitation des zones plus ou moins paisibles ; mise en place de la boîte à argent collective ; jeu de rôle le soir ; et récitation quotidienne de poésie (atelier ou nouvelle règle permanente, l’avenir nous le dira).
+N’oublions pas la [règle numéro 8](http://camp.ramdam.space/code), débattue car plusieurs ont été mises en réserve. Pour ce jour, il s’agit de, toutes les deux heures, se réserver une plage de méditation.
+
+## Création (ou prémices)
+Le réveil tardif et la diversité des tâches laissaient peut-être trop peu de temps pour les activités créatives. Pour autant, la finalité du RAMDAM n’a pas été oubliée.
+*Sonia* souhaite, lors de ces deux semaines, faire entre dix et vingt croquis par jour. Aujourd’hui, nous n’y sommes pas ; par contre, elle s’est fait plaisir en soignant un dessin d’arrosoir.
+
+*Valentin* a des projets divers :
+-	Concevoir une version interactive de sa [carte de la philosophie](http://lophi.ramdam.space) ;
+-	Programmer son launchpad aux fins d’entraînement au beat-box ;
+-	De l’art numérique à base de vidéoprojecteur et de caméras.
+Ce jour a été bien occupé avec l’organisation du jeu de rôle, et il en est resté à quelques travaux préparatoires.
+
+*Matthieu* compte capturer, dans des [calligrammes](https://fr.wikipedia.org/wiki/Calligramme), l’âme des personnes présentes et des lieux, et en prime tenir un journal de rêves. La première nuit, pas de rêves restés en mémoire, donc pas de récit de rêve. En revanche, malgré un niveau en dessin passablement faible, quatre esquisses préparatoires ont été tracées, et plusieurs photographies prises. Et la deuxième nuit a été plus riche en étrangetés oniriques.
+
+## Jeu de rôle, Margaritas et douceur nocturne
+La richissime Ezra O’Hara et le mafieux Fabrizio Amore ne s’attendaient pas à cela en entrant dans ce manoir : planchers qui craquent, créatures tentaculaires aperçues dans la nuit, restes sanglants d’une cérémonie satanique … Au bout du compte, le sacrifice d’O’Hara a sauvé son compagnon d’aventure, physiquement parlant du moins.
+Dans la réalité lyonnaise, la soirée est plus tranquille. Il fait encore beau dehors et quelques étoiles apparaissent. De quoi être motivés pour les prochains soirs.
